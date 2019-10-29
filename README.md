@@ -26,8 +26,8 @@ Todo esta en la carpeta "lib", los complementos estan en las otras.
 
 ## Documentacion de Flutter usada en este proyecto
 
-[Documentación de flutter](https://flutter.dev/docs)
-[Documentación de The Movie Database](https://www.themoviedb.org)
+* [Documentación de flutter](https://flutter.dev/docs)
+* [Documentación de The Movie Database](https://www.themoviedb.org)
 
 ## Galeria
 
