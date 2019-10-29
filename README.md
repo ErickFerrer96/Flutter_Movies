@@ -32,3 +32,12 @@ Todo esta en la carpeta "lib", los complementos estan en las otras.
 [Documentación](https://flutter.dev/docs)
 
 ## Galeria
+
+Todas las screenshoots presentadas estan en la carpeta de Imagenes.
+
+| Pantalla | Descripción | Imagenes |
+| --- | --- | --- |
+| 1 | Pantalla inicial de la aplicación. | <img src="Imágenes/1.png" width=150 heigth="300"> |
+| 2 | Pantalla de informacion de la pelicula, la cual se entra dandole click en la vista de arriba, las de abajo o buscandolas y dandole click en los resultados. |<img src="Imágenes/2.png" width=150 heigth="300"> |
+| 3 | Pantalla de busqueda. | <img src="Imágenes/3.png" width=150 heigth="300"> |
+| 4 | Pantalla ya con el resultado de la busqueda | <img src="Imágenes/4.png" width=150 heigth="300"> |
